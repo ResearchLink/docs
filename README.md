@@ -3,7 +3,8 @@
 
 1. 创建分支
 2. 在新分支上修改代码
-3. 没有错误的代码提pull request
+3. ``git fetch origin/master`` and ``git rebase origin master``
+3. 修conflicts，并把没有错误的代码提pull request
 4. 自己merge到master
 5. 删除原branch
 
