@@ -8,6 +8,8 @@
 5. 修conflicts，并把没有错误的代码提pull request
 6. 自己merge到master
 7. 删除原branch
+8. ``git checkout master``, ``git pull``
+9. 从1开始循环
 
 ## commits命名规则
 1. 新特性：fea/[描述]
